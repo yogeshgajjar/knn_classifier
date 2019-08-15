@@ -11,3 +11,4 @@ used for the class labels: DH (Disk Hernia), Spondylolisthesis (SL), Normal (NO)
 Abnormal (AB). In this exercise, the only focus on a binary classification task NO=0
 and AB=1.
 
+Download the Vertebral Column Data Set from: https://archive.ics.uci.edu/ml/datasets/Vertebral+Column.
